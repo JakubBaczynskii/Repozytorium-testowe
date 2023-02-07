@@ -1,3 +1,2 @@
 # Repozytorium-testowe
-
-JB20
+dzialaj prosze
